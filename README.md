@@ -29,7 +29,7 @@
    - If the GPA is above 3 print nice ;)
    - If the GPA is below 3 print not nice :(
    - If the GPA is 3 print nice and not nice :)
-5. Task 5 — Conditionals
+5. Task 5 — Conditionals (Bonus 🚀)
    - There is no universal rule about when to use if-else and when to use switch. Sometimes, we prefer one over the other just because of readability. Let's say, you typically get a bonus at the end of each year. Now you are making a plan for your next travel destination. Here is the plan:
       - If you get a bonus of $10000 (or more), you will travel to Paris and London.
       - If the bonus is between $5000 and $9999, you will travel to Tokyo.
