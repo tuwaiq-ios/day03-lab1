@@ -1,9 +1,15 @@
 # Day3 Lab1: Swift Basics 2
 
 ## Topics
-1. Variables
-2. Conditional
-3. Optional
+1. Optionals
+2. Dictionaries
+3. Conditionals
+  - If
+  - Switch
+4. Loops
+5. Reuse
+  - Functions
+  - Closures
 
 ## Description
 ## Task 1
