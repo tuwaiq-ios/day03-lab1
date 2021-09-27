@@ -4,12 +4,12 @@
 1. Optionals
 2. Dictionaries
 3. Conditionals
-  - If
-  - Switch
+   - If
+   - Switch
 4. Loops
 5. Reuse
-  - Functions
-  - Closures
+   - Functions
+   - Closures
 
 ## Description
 ## Task 1
