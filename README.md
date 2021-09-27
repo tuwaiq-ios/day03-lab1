@@ -20,6 +20,6 @@ If the bonus is less than $1000, you just stay home.
 2. Write a Swift program that making a plan for your next travel destination based on the bonus at the end of each year
 
 ## Task 3
-In some situations, you have to declare a variable without an initial value. Imagine, you are developing an app with a registration form. Not all fields in the form is mandatory, some fields (e.g. job title) are optional. In this case, the variables of those optional fields may have no values.
+In some situations, you have to declare a variable without an initial value. Imagine, you are developing an app with a registration form. Not all fields in the form is mandatory, some fields (e.g. job title) are optional. In this case, the variables of those optional fields may have no values.   
 3. Create an optinal variable called job_title. Then, print message saying that "Your job title is ***"
 
