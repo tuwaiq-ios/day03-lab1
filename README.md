@@ -1,4 +1,4 @@
-# week1-day3-lab2
+# Day3 Lab1: Swift Basics 2
 
 ## Topics
 1. Variables
