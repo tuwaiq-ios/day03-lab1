@@ -3,7 +3,7 @@
 ## Topics
 1. Variables
 2. Conditional
-3. D
+3. Optional
 
 ## Description
 ## Task 1
