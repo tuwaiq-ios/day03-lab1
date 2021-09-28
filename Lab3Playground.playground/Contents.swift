@@ -39,11 +39,11 @@ if bouns > 10000  {
     print (" you will travel to Paris and London.")
 }
 else if
- 5000 < bouns || bouns < 9999 {
+ 5000 < bouns && bouns < 9999 {
        print ("you will travel to Tokyo.")
 }
 else if
-    1000 < bouns || bouns < 4999 {
+    1000 < bouns && bouns < 4999 {
        print ("you will travel to Bangkok.")
 }
 else if
