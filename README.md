@@ -1,4 +1,4 @@
-# Day3 Lab1: Swift Basics 2
+d# Day3 Lab1: Swift Basics 2
 
 ## Topics
 1. Optionals
@@ -21,7 +21,7 @@
    - Create an array with 5 names
    - Print the names in the array using a loop
 3. Task 3 — Reuse
-   - Create a function that takes a price and a discount value and returns the price after the discount
+   -   and a discount value and returns the price after the discount
    - Print the value of the function when the price=100 & discount=0.5
    - Print the value of the function when the price=200 & discount=0.25
 4. Task 4 — Conditionals
