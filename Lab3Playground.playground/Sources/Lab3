@@ -1,0 +1,10 @@
+import Foundation
+
+
+
+
+// Task 1
+var a:Int?
+var b:Int!
+print(a)
+print:(b)

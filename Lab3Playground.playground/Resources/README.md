@@ -13,7 +13,7 @@
 
 ## Description
 1. Task 1 — Optionals
-   - Create a variable which hold an optional value and assign `nil` to it
+   - create a variable which hold an optional value and assign `nil` to it
    - Print the variable if it is not `nil`
    - Assign the same variable a NOT `nil` value
    - Print the variable if it is not `nil`
@@ -21,7 +21,7 @@
    - Create an array with 5 names
    - Print the names in the array using a loop
 3. Task 3 — Reuse
-   - Create a function that takes a price and a discount value and returns the price after the discount
+- Create a function that takes a price and a discount value and returns the price after the discount
    - Print the value of the function when the price=100 & discount=0.5
    - Print the value of the function when the price=200 & discount=0.25
 4. Task 4 — Conditionals
