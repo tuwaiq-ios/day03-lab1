@@ -31,17 +31,17 @@ if stuGPA == 3 {
     print("nice and not nice :)")
 }
 // Task 5
-var bouns : Int = 999
-if bouns > 10000 {
+var bouns : Int = 5000
+if bouns >= 10000 {
     print("you will travel to Paris and London.")
 }
 else if
-    bouns > 5000{
+    bouns >= 5000{
     print("you will travel to Tokyo.")
 }
 
 else if
-    bouns > 1000 {
+    bouns >= 1000 {
     print("you will travel to Bangkok.")
 }
 else if
