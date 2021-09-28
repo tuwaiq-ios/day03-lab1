@@ -22,9 +22,8 @@ for name in name {
 func juice (dis: Float, price: Float) -> Float {
   price - dis*price
 }
-juice(dis: 0.5, price: 100)
-juice(dis: 0.25, price: 200)
-
+print (juice(dis: 0.5, price: 100))
+print (juice(dis: 0.25, price: 200))
 
 // Task 4
 var studentGPA : Int = 2
