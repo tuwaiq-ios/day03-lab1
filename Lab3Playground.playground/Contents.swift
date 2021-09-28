@@ -29,7 +29,7 @@ for girlsName in girlsNames {
 // Task 3
 print("\n--- Task3 ---")
 // Retutn price with discount
-func calculateDiscount(priceBeforeDiscount: Double ,
+/*func calculateDiscount(priceBeforeDiscount: Double ,
                        discount: Double) -> Double {
     
     let calculateDiscount = (priceBeforeDiscount*discount/100)
@@ -41,6 +41,23 @@ print("\n- price=100 & discount=0.5 -")
 print ( calculateDiscount(priceBeforeDiscount: 100, discount: 0.5))
 print("\n-  price=200 & discount=0.25 -")
 print ( calculateDiscount(priceBeforeDiscount: 200, discount: 0.25))
+*/
+
+print("\n--- Task3 ---")
+// Retutn price with discount
+func calculatePrice(priceBeforeDiscount: Double ,
+                       discount: Double) -> Double {
+    
+    let calculatePrice = priceBeforeDiscount - (priceBeforeDiscount*discount/100)
+    
+    return calculatePrice
+   
+}
+print("\n- price=100 & discount=50% -")
+print (calculatePrice(priceBeforeDiscount: 100, discount: 50))
+print("\n-  price=200 & discount=%25 -")
+print (
+    calculatePrice(priceBeforeDiscount: 200, discount: 25))
 
 // Task 4
 print("\n--- Task4 ---")
