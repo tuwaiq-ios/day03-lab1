@@ -34,7 +34,7 @@ else if
        print ("nice and not nice")
 }
 // Task 5
-var bouns : Int = 9999
+var bouns : Int = 1000
 if bouns > 10000  {
     print (" you will travel to Paris and London.")
 }
@@ -47,6 +47,6 @@ else if
        print ("you will travel to Bangkok.")
 }
 else if
-    bouns < 1000 {
+    bouns <= 1000 {
        print ("you just stay home.")
 }
