@@ -20,7 +20,7 @@ for name in name {
     
 // Task 3
 func juice (dis: Float, price: Float) -> Float {
-    return dis*price
+  price - dis*price
 }
 juice(dis: 0.5, price: 100)
 juice(dis: 0.25, price: 200)
