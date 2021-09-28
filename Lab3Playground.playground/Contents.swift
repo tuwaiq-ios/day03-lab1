@@ -14,7 +14,7 @@ for name in name {
 
 // Task 3
 func resturant (dis: Float, price: Float) -> Float {
-    return dis*price
+    return price - dis*price
  }
 resturant(dis: 0.5, price: 100)
 resturant(dis: 0.25, price: 200)
@@ -31,7 +31,7 @@ if stuGPA == 3 {
     print("nice and not nice :)")
 }
 // Task 5
-var bouns : Int = 11000
+var bouns : Int = 999
 if bouns > 10000 {
     print("you will travel to Paris and London.")
 }
@@ -39,16 +39,9 @@ else if
     bouns > 5000{
     print("you will travel to Tokyo.")
 }
-else if
-    bouns < 9999 {
-    print("you will travel to Tokyo.")
-}
+
 else if
     bouns > 1000 {
-    print("you will travel to Bangkok.")
-}
-else if
-    bouns < 4999 {
     print("you will travel to Bangkok.")
 }
 else if
