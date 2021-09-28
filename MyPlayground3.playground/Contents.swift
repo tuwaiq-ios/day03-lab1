@@ -1,4 +1,6 @@
-import Darwin
+import UIKit
+
+var greeting = "Hello, playground"
 
 // Task 1
 var price: Int? = nil
@@ -62,4 +64,3 @@ default:
     print("travelplan")
 
 }
-
