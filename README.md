@@ -26,7 +26,7 @@
    - Print the value of the function when the price=200 & discount=0.25
 4. Task 4 — Conditionals
    - Create a variable that holds a student GPA
-   - If the GPA is above 3 print nice ;)
+   - If the GPA is above 3 print nice ;) 
    - If the GPA is below 3 print not nice :(
    - If the GPA is 3 print nice and not nice :)
 5. Task 5 — Conditionals (Bonus 😉)
