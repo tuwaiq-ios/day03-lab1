@@ -67,15 +67,15 @@ case 1:  Travelplan >= 10000;
     
     print("you will travel to Paris and London")
            
-case 2: 5000<Travelplan&&Travelplan<9999;
+case 2: 5000<Travelplan&&Travelplan<=9999;
     
      print("you will travel to Tokyo")
     
-case 3: 1000<Travelplan&&Travelplan<4999;
+case 3: 1000<Travelplan&&Travelplan<=4999;
     
     print ("you will travel to Bangkok")
     
-case 4:  Travelplan < 1000;
+case 4:  Travelplan<=1000;
     
     print ("you just stay home")
 default:
