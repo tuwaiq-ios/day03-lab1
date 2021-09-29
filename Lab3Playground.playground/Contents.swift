@@ -82,7 +82,7 @@ switch bouns {
 case let x where x >= 1000:
     print ("\n you will travel to london or paris")
             
-case 5000...9000:
+case 5000...9999:
     print("\n you will travel to tokyo")
     break
 case 1000...4999:
