@@ -17,6 +17,9 @@ for name in names {
 func shirt(price: Float, discount: Float) -> Float {
     return discount*price
 }
+  
+
+
 shirt(price:100, discount:0.5)
 shirt(price:200, discount: 0.25)
     
@@ -41,15 +44,15 @@ else if
 // Task 5
 
 var Bouns : Int =  11000
-if Bouns > 10000 {
+if Bouns >= 10000 {
 print ("you will travel to Paris and London:")
 }
 else if
-    5000 < Bouns && Bouns < 9999 {
+    5000 <= Bouns && Bouns < 9999 {
     print ("you will travel to Tokyo:")
 }
 else if
-    1000 < Bouns && Bouns < 4999 {
+    1000 <= Bouns && Bouns < 4999 {
         print ("you will to Bangkok:")
 }
 if Bouns < 1000 {
