@@ -14,9 +14,9 @@ if let unwrappedmessage = message{
 }
 
 //Task 2
-var Array = [("kholod","maram","huda","hind" ,"nora")]
-for K in Array{
-print(K)
+var names: [String] = ["kholod","maram","huda","hind" ,"nor"]
+for names  in names{
+print(names)
 }
 //Task 3
 func discount (cp:Int, dis:Double) ->Int{
