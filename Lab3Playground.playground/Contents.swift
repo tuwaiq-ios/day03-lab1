@@ -34,19 +34,20 @@ else if
        print ("nice and not nice")
 }
 // Task 5
-var bouns : Int = 1000
-if bouns > 10000  {
+var bouns : Int = 10000
+if bouns >= 10000  {
     print (" you will travel to Paris and London.")
 }
 else if
- 5000 < bouns && bouns < 9999 {
+ 5000 <= bouns && bouns < 9999 {
        print ("you will travel to Tokyo.")
 }
 else if
-    1000 < bouns && bouns < 4999 {
+    1000 <= bouns && bouns < 4999 {
        print ("you will travel to Bangkok.")
 }
 else if
-    bouns <= 1000 {
+    bouns < 1000 {
        print ("you just stay home.")
 }
+
